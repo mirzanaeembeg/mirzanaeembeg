@@ -22,7 +22,7 @@ I'm a passionate 4<sup>th</sup> year Computer Science & Engineering undergraduat
 - 📱 Mobile App Development
 - 🧠 Problem Solving
 - 🗄️ DevOps
-- ⛓ Blockchain & Crypto
+- ⛓  Blockchain & Crypto
 - 🔒 Cybersecurity
 
 ---
