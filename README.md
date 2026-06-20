@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎓 Final-Year CSE Undergraduate @ AUST &nbsp;|&nbsp; 🤖 Data & AI/ML Enthusiast &nbsp;|&nbsp; 📍 Dhaka, Bangladesh
+  🎓 CSE Fresh Graduate @ AUST &nbsp;|&nbsp; 🤖 Data & AI/ML Enthusiast &nbsp;|&nbsp; 📍 Dhaka, Bangladesh
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 
 ## 👨‍🎓 About Me
 
-- 🎓 Final-year **B.Sc. in Computer Science & Engineering** student at [Ahsanullah University of Science and Technology (AUST)](https://aust.edu/) — CGPA **3.15 / 4.00**, expected graduation **July 2026**
+- 🎓 Final-year **B.Sc. in Computer Science & Engineering** student at [Ahsanullah University of Science and Technology (AUST)](https://aust.edu/) — CGPA **3.12 / 4.00**, expected graduation **July 2026**
 - 🔬 Research interests: **NLP, Computer Vision, LLMs, Deep Learning, and AI for Healthcare**, with a focus on **low-resource language applications like Bangla**
-- 🧭 Career roadmap: **Data Analyst → Data Engineer → Data Scientist / AI Engineer**
+- 🧭 Career roadmap: **Fresher-level Data or AI role → Data Scientist / AI Engineer**
 - 💼 Actively seeking **full-time fresher-level Data or AI opportunities**
 - ✨ Motto: *Ambitious ● Resilient ● Realistic*
 
