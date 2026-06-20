@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Mirza Naeem Beg 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/mirzanaeembeg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=CSE+Fresh+Graduate;Data+%26+AI%2FML+Enthusiast;Researcher;Developer" alt="Typing SVG" /></a>
+  <a href="https://github.com/mirzanaeembeg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Fresh+CSE+Graduate;Data+%26+AI%2FML+Enthusiast;Researcher;Developer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  🎓 CSE Fresh Graduate @ AUST &nbsp;|&nbsp; 🤖 Data & AI/ML Enthusiast &nbsp;|&nbsp; 📍 Dhaka, Bangladesh
+  🎓 Fresh CSE Graduate @ AUST &nbsp;|&nbsp; 🤖 Data & AI/ML Enthusiast &nbsp;|&nbsp; 📍 Dhaka, Bangladesh
 </p>
 
 <p align="center">
