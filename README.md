@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mirzanaeembeg.github.io"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"></a>
+  <a href="https://mirzanaeembeg.github.io"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/mirza-naeem-beg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/mn_beg"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
   <a href="mailto:mirzanaeem278@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -19,26 +19,26 @@
 
 ## 👨‍🎓 About Me
 
-- 🎓 Final-year **B.Sc. in Computer Science & Engineering** student at [Ahsanullah University of Science and Technology (AUST)](https://aust.edu/) — CGPA **3.12 / 4.00**, expected graduation **July 2026**
-- 🔬 Research interests: **NLP, Computer Vision, LLMs, Deep Learning, and AI for Healthcare**, with a focus on **low-resource language applications like Bangla**
-- 🧭 Career roadmap: **Fresher-level Data or AI role → Data Scientist / AI Engineer**
-- 💼 Actively seeking **full-time fresher-level Data or AI opportunities**
-- ✨ Motto: *Ambitious ● Resilient ● Realistic*
+- 🎓 Fresh **B.Sc. in Computer Science & Engineering** graduate from [Ahsanullah University of Science and Technology (AUST)](https://aust.edu/), CGPA **3.13 / 4.00**
+- 🔬 Interested in **NLP, Computer Vision, LLMs, Deep Learning, and AI for Healthcare**, especially **low-resource language work like Bangla**
+- 🧭 Career goal: start in a fresher-level Data or AI role and grow into a Data Scientist or AI Engineer
+- 💼 Actively looking for **full-time fresher-level Data or AI opportunities**
+- ✨ Motto: *Ambitious, Resilient, Realistic*
 
 ---
 
 ## 🔬 Research
 
-### 🛡️ BanglaGuard — Undergraduate Thesis *(In Progress)*
+### 🛡️ BanglaGuard: Undergraduate Thesis *(Defended June 2026)*
 > A **Multimodal Deep Learning Framework** for Audio-Visual Detection of Inappropriate Content in Bangla Children's Cartoon Videos
 > *Supervised by [Prof. Dr. Md. Shahriar Mahbub](https://scholar.google.com/citations?user=pBArY-sAAAAJ&hl=en)*
 
 - 👁️ **EfficientNet**-based CNNs for visual feature extraction
 - 🔁 **BiLSTM** for temporal modeling
 - 🎙️ **OpenAI Whisper** for Bangla speech processing
-- 📈 Achieves up to **72.6% accuracy** on 339 Bangla clips — dataset expansion and fine-tuning ongoing
+- 📈 Achieved **87.02% accuracy** on a purpose-built 871-clip dataset
 
-### 🍮 Digital Preservation of Culinary Heritage — Course Paper (CSE4138)
+### 🍮 Digital Preservation of Culinary Heritage: Course Paper (CSE4138)
 > A system for classifying Bangladeshi desserts and generating traditional recipes
 
 - 🖼️ Classifies **4,118 dessert images** across **27 categories** (EfficientNet-B0 vs ResNet-18)
@@ -83,7 +83,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
@@ -93,11 +93,11 @@
 
 | Project | Description | Tech | Links |
 |---|---|---|---|
-| 🛒 **BechaKena.Com** | E-commerce platform with integrated **real-time auction & bidding** | HTML, CSS, Bootstrap, PHP, MySQL | [Repo](https://github.com/mirzanaeembeg/CSE3100-SD-IV) · [Demo](https://youtu.be/JnbI_pToNd4) |
-| 📱 **TrendWave** | TikTok-inspired short-video app — video sharing, profiles, social interactions | Flutter, Dart, Firebase | — |
-| 💣 **DoomExploder** | 2D action game with collision logic, sound & graphics | C/C++, iGraphics | — |
-| 🚆 **Railway Ticket Management System** | Desktop booking system with OOP design and GUI | Java Swing, MySQL | — |
-| 🧪 **Semester-wise Lab Codes** | Lab & project work across the full CSE programme (33 lab/project credits) | Mixed | [Repo](https://github.com/mirzanaeembeg/semester-wise-lab-codes) |
+| 🛒 **BechaKena.Com** | E-commerce platform with integrated real-time auction and bidding | HTML, CSS, Bootstrap, PHP, MySQL | [Repo](https://github.com/mirzanaeembeg/CSE3100-SD-IV) · [Demo](https://youtu.be/JnbI_pToNd4) |
+| 📱 **TrendWave** | TikTok-inspired short-video app for video sharing, profiles, and social interactions | Flutter, Dart, Firebase | N/A |
+| 💣 **DoomExploder** | 2D action game with collision logic, sound & graphics | C/C++, iGraphics | N/A |
+| 🚆 **Railway Ticket Management System** | Desktop booking system with OOP design and GUI | Java Swing, MySQL | N/A |
+| 🧪 **Semester-wise Lab Codes** | Lab and project work across the full CSE programme (33 lab/project credits) | Mixed | [Repo](https://github.com/mirzanaeembeg/semester-wise-lab-codes) |
 
 ---
 
@@ -106,18 +106,17 @@
 | Course | Provider | Status |
 |---|---|---|
 | [CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/) | Harvard University | ✅ Completed |
-| [Code in Place 2024](https://codeinplace.stanford.edu/) | Stanford University | ✅ Completed — [Certificate](https://codeinplace.stanford.edu/cip4/certificate/ct21d8) |
+| [Code in Place 2024](https://codeinplace.stanford.edu/) | Stanford University | ✅ Completed ([Certificate](https://codeinplace.stanford.edu/cip4/certificate/ct21d8)) |
 | [Python Basics & OOP](https://www.hackerrank.com/skills-verification/python_basic) | HackerRank | ✅ Completed |
-| [SQL Fundamentals](https://app.datacamp.com/learn/skill-tracks/sql-fundamentals) | DataCamp | 🔄 In Progress |
-| [ML & DL Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | Coursera — Andrew Ng | 🔄 In Progress |
+| Self-paced AI Engineer learning path | Self-directed | 🔄 In Progress |
 | [Full Stack Open](https://fullstackopen.com/en/) | University of Helsinki | 📅 Planned |
 
 ---
 
 ## 🤝 Open for Collaboration
 
-- 🧠 Open-source **AI/ML & NLP** projects — especially **Bangla / low-resource language** work
-- 📊 **Data analysis & engineering** projects
+- 🧠 Open-source AI/ML and NLP projects, especially **Bangla / low-resource language** work
+- 📊 Data analysis and engineering projects
 - 🌐 Innovative web or mobile app development
 - 🏆 Hackathons and coding competitions
 
@@ -126,13 +125,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirzanaeembeg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mirzanaeembeg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzanaeembeg&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzanaeembeg&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzanaeembeg&theme=tokyonight&hide_border=false&layout=compact&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
@@ -142,7 +141,7 @@
 </p>
 
 <p align="center">
-  <em>"Embracing the journey of continuous learning and innovation in the world of technology."</em>
+  <em>Always learning, always building.</em>
 </p>
 
 <p align="center">
