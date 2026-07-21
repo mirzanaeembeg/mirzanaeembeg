@@ -137,7 +137,7 @@
 ---
 
 <p align="center">
-  💼 <strong>Open to:</strong> Full-time fresher-level Data/AI roles · Internships · Research Collaborations
+  💼 <strong>Open to:</strong> Full-time fresher-level Data/AI roles • Internships • Research Collaborations
 </p>
 
 <p align="center">
