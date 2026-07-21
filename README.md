@@ -125,13 +125,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirzanaeembeg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-stats-extended-frontend-dusky.vercel.app/api?username=mirzanaeembeg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzanaeembeg&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzanaeembeg&theme=tokyonight&hide_border=false&layout=compact&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-stats-extended-frontend-dusky.vercel.app/api/top-langs/?username=mirzanaeembeg&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
