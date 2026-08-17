@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mirza Naeem Beg 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/mirzanaeembeg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Fresh+CSE+Graduate;Data+%26+AI%2FML[..."></a>
+  <a href="https://github.com/mirzanaeembeg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Fresh+CSE+Graduate;Data+%26+AI%2FML[...]"></a>
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
 
@@ -93,7 +93,7 @@
 
 | Project | Description | Tech | Links |
 |---|---|---|---|
-| 🛒 **BechaKena.Com** | E-commerce platform with integrated real-time auction and bidding | HTML, CSS, Bootstrap, PHP, MySQL | [Repo](https://github.com/mirzanaeembeg/CSE3100-SD-IV) · [Demo](h[...) |
+| 🛒 **BechaKena.Com** | E-commerce platform with integrated real-time auction and bidding | HTML, CSS, Bootstrap, PHP, MySQL | [Repo](https://github.com/mirzanaeembeg/CSE3100-SD-IV) · [Demo](h[...]
 | 📱 **TrendWave** | TikTok-inspired short-video app for video sharing, profiles, and social interactions | Flutter, Dart, Firebase | N/A |
 | 💣 **DoomExploder** | 2D action game with collision logic, sound & graphics | C/C++, iGraphics | N/A |
 | 🚆 **Railway Ticket Management System** | Desktop booking system with OOP design and GUI | Java Swing, MySQL | N/A |
@@ -127,7 +127,7 @@
   <img src="https://my-github-stats-blush.vercel.app/api?username=mirzanaeembeg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="(https://github-readme-streak-stats-naeem-beg.vercel.app/?user=mirzanaeembeg&theme=tokyonight&hide_border=false)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzanaeembeg&theme=dark&hide_border=true&border_radius=4" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://my-github-stats-blush.vercel.app/api/top-langs/?username=mirzanaeembeg&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
