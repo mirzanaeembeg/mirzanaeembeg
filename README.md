@@ -127,7 +127,7 @@
   <img src="https://my-github-stats-blush.vercel.app/api?username=mirzanaeembeg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/mirzanaeembeg/mirzanaeembeg/main/assets/streak.svg" alt="GitHub Streak](https://github-readme-streak-stats-naeem-beg.vercel.app/?user=mirzanaeembeg&theme=tokyonight&hide_border=false)" />
+  <img src="(https://github-readme-streak-stats-naeem-beg.vercel.app/?user=mirzanaeembeg&theme=tokyonight&hide_border=false)" />
 </p>
 <p align="center">
   <img src="https://my-github-stats-blush.vercel.app/api/top-langs/?username=mirzanaeembeg&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
