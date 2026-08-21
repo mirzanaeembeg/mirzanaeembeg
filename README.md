@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mirza Naeem Beg 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/mirzanaeembeg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Fresh+CSE+Graduate;Data+%26+AI%2FML[...]"></a>
+  <a href="https://github.com/mirzanaeembeg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Fresh+CSE+Graduate;Data+%26+AI%2FML[...]
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@
 
 | Course | Provider | Status |
 |---|---|---|
-| [CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/) | Harvard University | ✅ Completed |
+| [CS50's Introduction to Databases with SQL](https://cs50.harvard.edu/sql/) | Harvard University | ✅ Completed ([Certificate](https://cs50.harvard.edu/certificates/b92f4a95-78ef-4f26-b1dc-e42225d773cb)) |
 | [Code in Place 2024](https://codeinplace.stanford.edu/) | Stanford University | ✅ Completed ([Certificate](https://codeinplace.stanford.edu/cip4/certificate/ct21d8)) |
 | [Python Basics & OOP](https://www.hackerrank.com/skills-verification/python_basic) | HackerRank | ✅ Completed |
 | Self-paced AI Engineer learning path | Self-directed | 🔄 In Progress |
@@ -124,10 +124,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://my-github-stats-blush.vercel.app/api?username=mirzanaeembeg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzanaeembeg&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://my-github-stats-blush.vercel.app/api?username=mirzanaeembeg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" [...]>
 </p>
 <p align="center">
   <img src="https://my-github-stats-blush.vercel.app/api/top-langs/?username=mirzanaeembeg&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
