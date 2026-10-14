@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎓 B.Sc. CSE @ AUST &nbsp;|&nbsp; 🤖 AI/ML Engineer &nbsp;|&nbsp; 📍 Dhaka, Bangladesh
+  🎓 B.Sc. CSE @ AUST &nbsp;|&nbsp; 🤖 Aspiring AI/ML Engineer &nbsp;|&nbsp; 📍 Dhaka, Bangladesh
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats-naeem-beg.vercel.app?user=mirzanaeembeg&theme=tokyonight&hide_border=false" />
+  <img alt="GitHub Streak Stats (Press: `Ctrl + Shift + R`)" src="https://github-readme-streak-stats-naeem-beg.vercel.app?user=mirzanaeembeg&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
